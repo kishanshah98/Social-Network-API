@@ -1,10 +1,10 @@
 {
   "name": "Social-Network-API",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "server.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index",
+    "start": "node server",
     "dev": "nodemon index",
     "seed": "node utils/seed"
   },
