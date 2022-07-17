@@ -28,7 +28,7 @@ SO THAT my website can handle large amounts of unstructured data
 The user can test the application by running it in an app such as Insomnia or on the browser using localhost port. This application was created with Javascript. 
 
 ### Screencastify link provided below:
-[Screencastify link]()
+[Screencastify link](https://drive.google.com/file/d/1-c5eH4pjqdiwnM_Im4842Of2iqWsQwh_/view)
 
 ## Contributions
 There are no other contributors for this application.
